@@ -1,0 +1,18 @@
+
+
+E->TP
+P->@
+P->+TP
+T->FQ
+Q->@
+Q->*FQ
+F->i
+F->(E)
+
+same input but in different order
+
+E -> TE'    
+E'-> +TE'|@  
+T -> FT'      
+T'-> *FT'|@  
+F -> (E)|i
