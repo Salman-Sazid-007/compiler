@@ -1,5 +1,5 @@
 # Compiler Design Lab 
-    Name:Abdullah Numan Shakil
+    Name:Salman Sazid
     Department of Computer Science & Engineering
     University of Rajshahi
 
